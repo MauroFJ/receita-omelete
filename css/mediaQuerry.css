@@ -1,0 +1,87 @@
+@media(max-width: 900px){
+    main{
+        max-width: 600px;
+    }
+    hr{
+        width: 500px;
+    }
+    .valor {
+        width: 300px;
+      }
+    .ovo img{
+        width: 525px;
+    }
+    .contraste{
+        width: 500px;
+    }
+    
+    .attribution ,a{
+        font-size: 18px;
+    }
+}
+@media(max-width: 650px){
+    main{
+        max-width: 400px;
+    }
+    hr{
+        width: 300px;
+    }
+    .valor {
+        width: 100px;
+    }
+    .ovo img{
+        width: 325px;
+    }
+    .contraste{
+        width: 300px;
+    }
+
+    .attribution, a{
+        font-size: 14px;
+    }
+}
+@media(max-width: 375px){
+    p{
+        font-size: 12px;
+        width: 250px;
+        margin-left: 60px;
+    }
+    li{
+        font-size: 12px;
+    }
+    hr{
+        width: 250px;
+    }
+    span{
+        font-size: 12px;
+    }
+    .contraste{
+        width: 250px;
+    }
+    .ingredients li{
+        font-size: 12px;
+    }
+    body{
+        background-color: hsl(0, 0%, 100%);
+    }
+    main{
+        margin:0px 10px;
+        padding: 0px 10px;
+    }
+    .ovo img{
+        width: 375px;
+    }
+    .attribution{
+        margin-top: 30px;
+    }
+    .nutrition p{
+        margin: 0px 20px;
+    }
+    .ingredients li {
+        margin: 0px 40px;
+        margin-left: 60px;
+        padding-left: 0px;
+        width: 250px;
+    }
+
+}
