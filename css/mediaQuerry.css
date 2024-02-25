@@ -42,7 +42,8 @@
 }
 @media(max-width: 375px){
     p{
-              background-color: aqua;
+        background-color: aqua;
+        color:black;
         font-size: 12px;
         width: 250px;
         margin-left: 60px;
