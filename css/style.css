@@ -14,6 +14,7 @@ body{
     align-items: center;
     flex-direction: column;
     flex-basis: auto;
+    overflow-x: hidden;
 }
 main{
     background-color: hsl(0, 0%, 100%);
