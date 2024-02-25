@@ -42,7 +42,7 @@
 }
 @media(max-width: 375px){
     p{
-        text-align:center;
+        padding-right:20px; 
         font-size: 12px;
         width: 250px;
         margin-left: 60px;
