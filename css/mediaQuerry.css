@@ -1,6 +1,7 @@
 @media(max-width: 900px){
     main{
         max-width: 600px;
+        backgroundcolor: aqua;
     }
     hr{
         width: 500px;
